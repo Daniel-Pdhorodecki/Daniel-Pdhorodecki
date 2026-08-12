@@ -24,11 +24,12 @@ Sou estudante de desenvolvimento de sistemas e estou aprendendo programação e 
 
 ### ⚽ Banco de Dados da copa
 
-Projeto desenvolvido em **MySQL/SQL** para praticar a criação e manipulação de um banco de dados relacional.
+Projeto desenvolvido em **MySQL/SQL** para praticar banco de dados relacionais.
 
-O projeto contém tabelas, relacionamentos, dados de seleções, jogadores, partidas, estádios, árbitros, grupos e diversas consultas SQL.
+📖 [Ver projeto](https://github.com/Daniel-Pdhorodecki/projeto-banco-copa)
 
-🔗 [Ver projeto no GitHub](https://github.com/Daniel-Pdhorodecki/projeto-banco-copa)
+💻 [Ver código SQL](https://github.com/Daniel-Pdhorodecki/projeto-banco-copa/blob/main/banco_copa.sql)
+
 
 ---
 
