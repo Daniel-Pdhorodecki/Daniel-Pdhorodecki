@@ -39,12 +39,11 @@ Em breve adicionarei meus projetos desenvolvidos em Portugol.
 
 ---
 
-### ⚡ Projetos em JavaScript
+### ⚡ 💰 Calculadora de Gastos
 
-Em breve adicionarei meus primeiros projetos desenvolvidos em JavaScript.
+Projeto desenvolvido em TypeScript HTML e CSS para prática das demais linguagems
 
-
-Aqui vou adicionar meus projetos conforme forem sendo desenvolvidos.
+📖 [Ver projeto]https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos
 
 ## 📫 Contato
 
