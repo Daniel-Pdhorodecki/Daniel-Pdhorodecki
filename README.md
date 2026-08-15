@@ -31,6 +31,7 @@ Projeto desenvolvido em **MySQL/SQL** para praticar banco de dados relacionais.
 💻 [Ver código SQL](https://github.com/Daniel-Pdhorodecki/projeto-banco-copa/blob/main/banco_copa.sql)
 
 
+
 ---
 
 ### 🔷 Projetos em Portugol
@@ -45,6 +46,7 @@ Projeto desenvolvido em TypeScript HTML e CSS para prática das demais linguagem
 
 📖 [Ver projeto](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos)
 
+💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/codigos.md)
 ## 📫 Contato
 
 📧 **E-mail:** [danielp33@outlook.pt](mailto:danielp33@outlook.pt)
