@@ -8,7 +8,7 @@ Sou estudante de desenvolvimento de sistemas e estou aprendendo programação e 
 
 * 🌐 HTML
 * 🎨 CSS
-* ⚡ JavaScript
+* ⚡ typeScript
 * 🗄️ MySQL
 * 🐙 Git
 * 🐱 GitHub
@@ -17,7 +17,7 @@ Sou estudante de desenvolvimento de sistemas e estou aprendendo programação e 
 ## 📚 Atualmente aprendendo
 
 * Desenvolvimento Web
-* JavaScript
+* typeScript
 * Git e GitHub
 
 ## 🚀 Projetos
