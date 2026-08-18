@@ -39,7 +39,7 @@ Projeto desenvolvido somente em Portugol
 
 📖 [Ver projeto](https://github.com/Daniel-Pdhorodecki/portugol-par-impar/blob/main/README.md)
 
-💻 [Ver código]
+💻 [Ver código](https://github.com/Daniel-Pdhorodecki/portugol-par-impar/blob/main/c%C3%B3digo.por)
 
 ---
 
