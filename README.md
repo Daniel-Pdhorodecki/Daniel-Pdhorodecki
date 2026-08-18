@@ -37,7 +37,7 @@ Projeto desenvolvido em **MySQL/SQL** para praticar banco de dados relacionais.
 ### 🔷 Software para contagem de números pares e impares
 Projeto desenvolvido somente em Portugol
 
-📖 [Ver projeto]
+📖 [Ver projeto](https://github.com/Daniel-Pdhorodecki/portugol-par-impar/blob/main/README.md)
 
 💻 [Ver código]
 
