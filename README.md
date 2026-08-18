@@ -34,9 +34,12 @@ Projeto desenvolvido em **MySQL/SQL** para praticar banco de dados relacionais.
 
 ---
 
-### 🔷 Projetos em Portugol
+### 🔷 Software para contagem de números pares e impares
+Projeto desenvolvido somente em Portugol
 
-Em breve adicionarei meus projetos desenvolvidos em Portugol.
+📖 [Ver projeto]
+
+💻 [Ver código]
 
 ---
 
@@ -47,6 +50,9 @@ Projeto desenvolvido em TypeScript HTML e CSS para prática das demais linguagem
 📖 [Ver projeto](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos)
 
 💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/codigos.md)
+
+---
+
 ## 📫 Contato
 
 📧 **E-mail:** [danielp33@outlook.pt](mailto:danielp33@outlook.pt)
