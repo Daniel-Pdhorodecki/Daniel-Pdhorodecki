@@ -28,7 +28,7 @@ Projeto desenvolvido em **MySQL/SQL** para praticar banco de dados relacionais.
 
 📖 [Ver projeto](https://github.com/Daniel-Pdhorodecki/projeto-banco-copa)
 
-💻 [Ver código SQL](https://github.com/Daniel-Pdhorodecki/projeto-banco-copa/blob/main/banco_copa.sql)
+💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-banco-copa/blob/main/banco_copa.sql)
 
 
 
