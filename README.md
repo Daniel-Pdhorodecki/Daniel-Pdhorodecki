@@ -47,7 +47,7 @@ Projeto desenvolvido somente em Portugol
 
 Projeto desenvolvido em TypeScript HTML e CSS para prática das demais linguagems
 
-📖 [Ver projeto](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos)
+📖 [Ver projeto](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/README.md)
 
 💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/codigos.md)
 
