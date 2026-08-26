@@ -42,7 +42,7 @@ Projeto desenvolvido em **MySQL/SQL** para praticar banco de dados
 
 📖 [Ver projeto](https://github.com/Daniel-Pdhorodecki/bd-patio/blob/main/README.md)
 
-💻 [Ver código]
+💻 [Ver código](https://github.com/Daniel-Pdhorodecki/bd-patio/blob/main/codigo.sql)
 
 ---
 
