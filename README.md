@@ -40,7 +40,7 @@ Projeto desenvolvido em **MySQL/SQL** para praticar banco de dados relacionais.
 
 Projeto desenvolvido em **MySQL/SQL** para praticar banco de dados
 
-📖 [Ver projeto]
+📖 [Ver projeto](https://github.com/Daniel-Pdhorodecki/bd-patio/blob/main/README.md)
 
 💻 [Ver código]
 
