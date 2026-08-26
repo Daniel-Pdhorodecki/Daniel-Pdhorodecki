@@ -20,7 +20,11 @@ Sou estudante de desenvolvimento de sistemas e estou aprendendo programação e 
 * typeScript
 * Git e GitHub
 
+---
+
 ## 🚀 Projetos
+
+---
 
 ### ⚽ Banco de Dados da copa
 
@@ -30,7 +34,15 @@ Projeto desenvolvido em **MySQL/SQL** para praticar banco de dados relacionais.
 
 💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-banco-copa/blob/main/banco_copa.sql)
 
+---
 
+### 🚨 Banco de um Pátio de Policia
+
+Projeto desenvolvido em **MySQL/SQL** para praticar banco de dados
+
+📖 [Ver projeto]
+
+💻 [Ver código]
 
 ---
 
