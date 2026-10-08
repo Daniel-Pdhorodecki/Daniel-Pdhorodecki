@@ -16,6 +16,8 @@ Sou estudante de desenvolvimento de sistemas e estou aprendendo programação e 
 
 ## 📚 Atualmente aprendendo
 
+* HTML
+* CSS
 * Desenvolvimento Web
 * typeScript
 * Git e GitHub
