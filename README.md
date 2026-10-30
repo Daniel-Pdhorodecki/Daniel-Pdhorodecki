@@ -46,7 +46,7 @@ Trabalho escolar para a feira de ciências do Col. Kennedy.
 ### 👾 Jogo: CEPK Rush
 Jogo desenvolvido por mim, para prática de criação de jogos e programação orientada a IA
 
-**Tecnologia:** OpenCode, Render
+**Tecnologia:** OpenCode, Render, neon e UptimeRobot
 
 🔗 [📋Ver Projeto](https://github.com/Daniel-Pdhorodecki/CEPK-Rush/blob/main/README.md)
 
@@ -57,11 +57,22 @@ Jogo desenvolvido por mim, para prática de criação de jogos e programação o
 ### 🎮 Jogo: LoopBound
 Jogo desenvolvido por mim, para prática de criação de jogos e programação orientada a IA
 
-**Tecnologia:** OpenCode, Render
+**Tecnologia:** OpenCode, Render, neon e UptimeRobot
 
 🔗 [📋Ver Projeto](https://github.com/DPdhorodecki/Loopbound)
 
 🔗 [🎮Ver Jogo](https://loopbound-web.onrender.com)
+
+---
+
+### 💻 Site: WorkAbsence
+Site desenvolvido por mim, para prática de criação de sites, aplicações e programação orientada a IA
+
+**Tecnologia:** OpenCode, Render e neon
+
+🔗 [📋Ver Projeto](https://github.com/Daniel-Pdhorodecki/WORK-Absence/blob/main/README.md)
+
+🔗 [💻Ver Site](https://workabsence.onrender.com/)
 
 ---
 
